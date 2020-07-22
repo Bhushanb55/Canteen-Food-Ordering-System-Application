@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="samosa_order" type="id" />
+    <item name="kachori_order" type="id" />
+    <item name="bread_pakoda_order" type="id" />
+    <item name="poha_order" type="id" />
+    <item name="upma_order" type="id" />
+    <item name="aaloo_Bonda_order" type="id" />
+    <item name="onion_pakoda_order" type="id" />
+    <item name="sabudana_Wada_order" type="id" />
+    <item name="sabudana_wada_order" type="id" />
+    <item name="veg_manchurian_order" type="id" />
+    <item name="paneer_pualo_order" type="id" />
+    <item name="paneer_pulao_order" type="id" />
+    <item name="tea_order" type="id" />
+    <item name="cofee_order" type="id" />
+    <item name="cold_drinks_order" type="id" />
+    <item name="coffe_order" type="id" />
+    <item name="Breakfast_Sancks_tot_id" type="id" />
+    <item name="Drinks_tot_id" type="id" />
+    <item name="chicken_noodles_order" type="id" />
+    <item name="chicken_biryani_order" type="id" />
+    <item name="veg_noodles_order" type="id" />
+    <item name="btnSignin" type="id" />
+    <item name="btnSignIn" type="id" />
+</resources>
