@@ -24,6 +24,7 @@
 * Cancel order
 * Add new order
 
+![](Screenshots/Picture1.jpg)
 
 ## Built With
 
