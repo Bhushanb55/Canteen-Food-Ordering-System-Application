@@ -1,6 +1,6 @@
 # ANDROID  APPLICATION FOR CANTEEN FOOD ORDER SYSTEM
 
-* Design android application for customer to easily place his order.
+* Design android application for customer to easily place their order.
 
 * Provide all functionalities to admin for managing food items like take order, add new food items, delete an existing item, calculate exact bill etc easily.
 
